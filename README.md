@@ -1,6 +1,6 @@
 ### Hey, I'm Juan 👋
 
-## I'm a student and an 18 year old programming enthusiast 💻
+## I'm a student at CEFET-MG and an 18 year old programming enthusiast 💻
 
 <br />
 
