@@ -15,8 +15,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+<br />
 
-<div align="center">
+<div align="left">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=juanJunq" />
    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=juanJunq" />
 </div>
