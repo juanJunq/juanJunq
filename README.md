@@ -17,6 +17,6 @@
 <br />
 
 <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=pingo700" />
-   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pingo700" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=juanJunq" />
+   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=juanJunq" />
 </div>
