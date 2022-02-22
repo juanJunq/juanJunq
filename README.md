@@ -1,7 +1,6 @@
 ### Hey, I'm Juan 👋
 
-## 18y
-## CEFET-MG💻
+## 18y<br />CEFET-MG💻
 
 <br />
 
