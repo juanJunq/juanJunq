@@ -1,5 +1,3 @@
-### Hey! 👋
-#
 
 
 - Computer Science - Universidade Federal de Minas Gerais
